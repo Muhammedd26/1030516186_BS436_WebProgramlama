@@ -1,1 +1,3 @@
-# 1030516186_BS436_WebProgramlama
+Öğrenci Numarası : 1030516186
+Öğrenci Adı      : Muhammed ÇİÇEK
+Dersin Adı       : BS436 Web Programlama
